@@ -4,9 +4,6 @@
 🔍  - Trying to decode the chaos of the world- one dataset, one line of code at a time :
 
 ---
-## 📱 Connect with me:
-
-[[Linkedin](https://www.linkedin.com/in/kifayat-sayed-9614a9244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## 🧠 About Me
 
