@@ -102,7 +102,7 @@ Sketching | Photography | Musician | Lyricist | PC Building | Poetry
 
 ## 📫 Contact  
 📍 Goa, India  
-📧 [Email Me](kifayatsayed301@gmail.com)  
+📧 [Email Me](www.kifayatsayed301@gmail.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/kifayat-sayed-9614a9244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 💼 [Portfolio Website](https://your-website.com) 
 
