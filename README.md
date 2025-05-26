@@ -4,7 +4,11 @@
 🔍  - Trying to decode the chaos of the world- one dataset, one line of code at a time :
 
 ---
+## 📱 Connect with me:
 
+[![Linkedin](https://www.linkedin.com/in/kifayat-sayed-9614a9244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Instagram](https://www.instagram.com/kifayatt__?igsh=MTdoaGVnM2ludnRsbw==)
+ 
 ## 🧠 About Me
 
 With a background in science (B.Sc.) and currently pursuing an M.Sc. in Data Science, I'm exploring the logic behind patterns and the structure in randomness. From cleaning unstructured data to building machine learning models, each step feels like reverse-engineering how the world thinks. While I carry a creative past in writing and art, today I channel that depth into data-looking beyond just accuracy or metrics, and into the 'why' behind the 'what'.
