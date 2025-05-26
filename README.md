@@ -54,17 +54,30 @@ Supervised/Unsupervised ML | Neural Networks | Feature Engineering | Model Tunin
 
 > "In every messy dataset, I see a system waiting to be understood."
 
-### 🩺 [Pregnancy & Fetal Health Risk Prediction](link-to-project)
-A dual-model machine learning project designed to assess maternal and fetal health risks using real medical data.  
-- Used Gradient Boosting and Logistic Regression  
-- Evaluated risk factors and predicted health categories  
-- Implemented feature scaling, oversampling (SMOTE), and hyperparameter tuning  
+### 🩺 [Pregnancy & Fetal Health Risk Prediction](https://github.com/Kifayat-PC/Pregnancy-Fetal-Health-Risk-Prediction)
+A dual-model predictive analytics project aimed at enhancing maternal and fetal healthcare. 
+One model evaluates overall pregnancy risk levels, while the other predicts fetal health categories based on medical indicators. 
+Utilized real-world clinical data, advanced preprocessing, and classification algorithms to support early diagnosis and preventive care.
 
-### 📱 [Telecom Customer Churn Prediction](link-to-project)
-Predictive model to help telecom businesses reduce customer churn.  
-- Performed data preprocessing, EDA, and feature selection  
-- Built and compared multiple classifiers: Random Forest, XGBoost, Logistic Regression  
-- Achieved high recall on churned customers to optimize retention strategy
+### 📱 [Telecom Customer Churn Prediction](https://github.com/Kifayat-PC/Telecom-Customer-Churn-Prediction)
+A business-focused machine learning solution that identifies telecom customers at high risk of churning. 
+Analyzed customer demographics, usage patterns, and service history to build predictive models.
+Aimed at helping telecom providers reduce revenue loss through targeted retention strategies and customer segmentation.
+
+### 💳 [Credit Card Users Churn Predictionn](https://github.com/Kifayat-PC/Credit-Card-Users-Churn-Prediction)
+A comprehensive machine learning pipeline for predicting customer attrition in Thera Bank’s credit card services. 
+Compared models trained on original, oversampled, and undersampled datasets to handle class imbalance. 
+Integrated Gradient Boosting, Random Forest, and XGBoost with hyperparameter tuning to improve prediction accuracy and support actionable insights for customer retention.
+
+### 📈 [Trade&Ahead - Stock Portfolio Optimization](https://github.com/Kifayat-PC/Trade-Ahead---Stock-Portfolio-Optimization)
+An unsupervised learning project developed to optimize stock portfolios by identifying hidden structures in financial data. 
+Applied clustering techniques (e.g., K-Means) and dimensionality reduction (PCA) to group stocks with similar behavior. 
+Enables investors to construct diversified portfolios and minimize risk exposure.
+
+### 🛂 [EasyVisa - Visa Approval Prediction](https://github.com/Kifayat-PC/EasyVisa-Visa-Approval-Prediction)
+A machine learning project that predicts U.S. visa application outcomes using historical case data. 
+Designed to assist the Office of Foreign Labor Certification (OFLC) in automating and expediting visa decision-making. 
+Leveraged ensemble models to improve classification accuracy and support data-driven immigration workflows.
 
 ---
 
