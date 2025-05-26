@@ -85,7 +85,7 @@ Leveraged ensemble models to improve classification accuracy and support data-dr
 
 **M.Sc. in AI & ML (Data Science)** *(In Progress)*  
 **B.Sc., Goa University** (2021–2024) — *Distinction*  
-**Higher Secondary, Shri Damodar School of Science** — *Distinction*
+**Higher Secondary, Shri Damodar H.S School of Science** — *Distinction*
 
 ---
 
