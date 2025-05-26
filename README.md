@@ -10,6 +10,7 @@
 With a background in science (B.Sc.) and currently pursuing an M.Sc. in Data Science, I'm exploring the logic behind patterns and the structure in randomness. From cleaning unstructured data to building machine learning models, each step feels like reverse-engineering how the world thinks. While I carry a creative past in writing and art, today I channel that depth into data-looking beyond just accuracy or metrics, and into the 'why' behind the 'what'.
 
 I'm currently building hands-on projects, working with real-world datasets, and actively seeking opportunities to grow in Al, data science, and machine learning-where curiosity drives meaningful outcomes.
+
 ---
 
 ## 🚀 Profile Snapshot
