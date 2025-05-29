@@ -65,7 +65,7 @@ A business-focused machine learning solution that identifies telecom customers a
 Analyzed customer demographics, usage patterns, and service history to build predictive models.
 Aimed at helping telecom providers reduce revenue loss through targeted retention strategies and customer segmentation.
 
-### 💳 [Credit Card Users Churn Predictionn](https://github.com/Kifayat-PC/Credit-Card-Users-Churn-Prediction)
+### 💳 [Credit Card Users Churn Prediction](https://github.com/Kifayat-PC/Credit-Card-Users-Churn-Prediction)
 A comprehensive machine learning pipeline for predicting customer attrition in Thera Bank’s credit card services. 
 Compared models trained on original, oversampled, and undersampled datasets to handle class imbalance. 
 Integrated Gradient Boosting, Random Forest, and XGBoost with hyperparameter tuning to improve prediction accuracy and support actionable insights for customer retention.
