@@ -81,7 +81,6 @@ Designed to assist the Office of Foreign Labor Certification (OFLC) in automatin
 Leveraged ensemble models to improve classification accuracy and support data-driven immigration workflows.
 
 ### ✈️ [British Airways - Customer Booking Prediction](https://github.com/Kifayat-Sayed/Customer-Booking-Prediction-British-Airways) 
-
 A predictive modeling project aimed at identifying customers likely to complete holiday bookings based on behavioral and temporal features. 
 Developed as part of a data science job simulation using real-world airline data. 
 Engineered relevant features (e.g., purchase lead time, preferences), handled class imbalance, and trained a Random Forest classifier to enable targeted marketing strategies and improve booking conversion rates.
