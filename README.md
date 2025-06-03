@@ -70,6 +70,11 @@ A comprehensive machine learning pipeline for predicting customer attrition in T
 Compared models trained on original, oversampled, and undersampled datasets to handle class imbalance. 
 Integrated Gradient Boosting, Random Forest, and XGBoost with hyperparameter tuning to improve prediction accuracy and support actionable insights for customer retention.
 
+### ✈️ [British Airways - Customer Booking Prediction](https://github.com/Kifayat-Sayed/Customer-Booking-Prediction-British-Airways) 
+A predictive modeling project aimed at identifying customers likely to complete holiday bookings based on behavioral and temporal features. 
+Developed as part of a data science job simulation using real-world airline data. 
+Engineered relevant features (e.g., purchase lead time, preferences), handled class imbalance, and trained a Random Forest classifier to enable targeted marketing strategies and improve booking conversion rates.
+
 ### 📈 [Trade&Ahead - Stock Portfolio Optimization](https://github.com/Kifayat-PC/Trade-Ahead---Stock-Portfolio-Optimization)
 An unsupervised learning project developed to optimize stock portfolios by identifying hidden structures in financial data. 
 Applied clustering techniques (e.g., K-Means) and dimensionality reduction (PCA) to group stocks with similar behavior. 
@@ -80,10 +85,6 @@ A machine learning project that predicts U.S. visa application outcomes using hi
 Designed to assist the Office of Foreign Labor Certification (OFLC) in automating and expediting visa decision-making. 
 Leveraged ensemble models to improve classification accuracy and support data-driven immigration workflows.
 
-### ✈️ [British Airways - Customer Booking Prediction](https://github.com/Kifayat-Sayed/Customer-Booking-Prediction-British-Airways) 
-A predictive modeling project aimed at identifying customers likely to complete holiday bookings based on behavioral and temporal features. 
-Developed as part of a data science job simulation using real-world airline data. 
-Engineered relevant features (e.g., purchase lead time, preferences), handled class imbalance, and trained a Random Forest classifier to enable targeted marketing strategies and improve booking conversion rates.
 
 ---
 
@@ -109,7 +110,7 @@ Sketching | Photography | Musician | Lyricist | PC Building | Poetry
 📍 Goa, India  
 📧 [Email Me](www.kifayatsayed301@gmail.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/kifayat-sayed-9614a9244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-💼 [Portfolio Website](https://your-website.com) 
+💼 [Portfolio Website](https://kifayat-sayed.github.io/) 
 
 ---
 
