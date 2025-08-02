@@ -65,6 +65,16 @@ A business-focused machine learning solution that identifies telecom customers a
 Analyzed customer demographics, usage patterns, and service history to build predictive models.
 Aimed at helping telecom providers reduce revenue loss through targeted retention strategies and customer segmentation.
 
+### 🏦 [YES Bank Stock Trend & Price Prediction](https://github.com/Kifayat-Sayed/YESBank-Stock-Trend_AlertAI_AIML_Project)
+A dual-Model ML System for Stock Trend Classification and Closing Price Forecasting.
+A comprehensive machine learning project designed to assist investors and analysts in understanding and predicting the short-term behavior of YES Bank stock.
+This project combines classification and regression models to provide robust insights and predictions.
+
+### 🔍 [Fraud Transaction Detection](https://github.com/Kifayat-Sayed/Fraud-Transaction-Detection)
+A Machine Learning Model for Financial Fraud Prediction
+A robust machine learning project designed to detect fraudulent transactions in financial datasets using advanced data balancing techniques and ensemble learning. 
+This project addresses severe class imbalance and builds an efficient fraud detection system using real-world financial transaction data.
+
 ### 💳 [Credit Card Users Churn Prediction](https://github.com/Kifayat-PC/Credit-Card-Users-Churn-Prediction)
 A comprehensive machine learning pipeline for predicting customer attrition in Thera Bank’s credit card services. 
 Compared models trained on original, oversampled, and undersampled datasets to handle class imbalance. 
