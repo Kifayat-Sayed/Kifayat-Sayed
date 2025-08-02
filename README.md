@@ -37,18 +37,25 @@ Supervised/Unsupervised ML | Neural Networks | Feature Engineering | Model Tunin
 
 ## 🧾 Certifications
 
-### 📘 [IBM – Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python)  
+### 📘 [IBM – Machine Learning with Python]()  
 *Instructor: Joseph Santarcangelo | Coursera | May 2025*  
 - Built ML models using Scikit-learn and Python  
 - Worked with regression, SVM, decision trees, clustering  
 - Applied cross-validation, hyperparameter tuning, and bias-variance management  
 - Completed a capstone on rainfall data classification
 
-### 📘 [Network Communications](https://www.coursera.org/learn/network-communications)  
-*Instructor: Xiaobo Zhou | Coursera | June 2025*  
-- Studied OSI, TCP/IP models, socket programming, and error control  
-- Built client-server communication using socket APIs
 
+### 📘 [Machine Learning for All – University of London]()
+
+*Instructor: Prof. Marco Gillies | Coursera | June 2025*
+
+- Gained foundational understanding of modern machine learning technologies
+- Explored predictive modeling, supervised learning, and data ethics
+- Trained ML models using a no-code platform on real-world datasets
+- Analyzed how data quality influences machine learning outcomes
+- Evaluated societal impacts of AI and ML with critical thinking
+
+---
 ---
 
 ## 📂 Projects
